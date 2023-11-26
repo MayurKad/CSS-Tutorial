@@ -1,0 +1,13 @@
+*{
+    font-style: italic;
+}
+h1{
+    color: blue;
+}
+button{
+    background-color: aqua;
+    color: brown;
+}
+body{
+    background-color: burlywood;
+}

@@ -1,0 +1,53 @@
+/* this is a aline-text funtion */
+p {
+    text-align: center;
+    text-decoration: underline;
+}
+
+h1 {
+    text-align: left;
+    text-decoration: overline;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+/* this is a font-weight */
+#h2 {
+    font-weight: normal;
+}
+
+#h3 {
+    font-weight: bold;
+}
+
+#h4 {
+    font-weight: bolder;
+}
+
+#h5 {
+    font-weight: lighter;
+}
+
+/* this is a font family function and line height function and text transform function*/
+#one {
+    font-family: Arial;
+    line-height: 25px;
+    text-transform:capitalize;
+
+}
+
+/* this ia a font-size */
+#one1 {
+    font-size: 50px;
+}
+
+#two2 {
+    font-size: 25px;
+}
+
+#three3 {
+    font-size: 34px;
+}
