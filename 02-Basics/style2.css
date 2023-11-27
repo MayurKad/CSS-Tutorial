@@ -1,0 +1,25 @@
+*{
+    text-align: center;
+    background-color: red;
+    margin: 50px;
+}
+h1{
+    background-color: aqua;
+    padding-left: 160px;
+    margin: 125px;
+}
+p{
+    background-color: aquamarine;
+    border-width: 10px;
+    border-style: dotted;
+    border-color: blueviolet;
+    border-radius: 20px;
+}
+div{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+}
+button{
+    background-color: chartreuse;
+}
