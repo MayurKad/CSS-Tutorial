@@ -1,0 +1,11 @@
+div{
+    background-color: brown;
+    display: inline;
+}
+.baki{
+    background-color: blueviolet;
+    padding: 15px;
+    margin: 15px;
+    display: inline-block;
+    color: rgba(0, 0, 255, 0.75);
+}
